@@ -1,12 +1,12 @@
 #PROJEKTANTRAG
-
+von Nadia Bajim 3AHIF
 
 ##Idee
 
 Einen Nao V6 Roboter so programmieren, dass er einen Kellner ersetzen könnte.
 
 ##Projekthintergrund
-Wettbewerb: Austria Open Humanoid Robotics 
+Wettbewerb: Austria Open Humanoid Robotics
 
 ##Sinn
 Anerkennung der Schule mit einer Erstplatzierung.
@@ -18,8 +18,7 @@ Anerkennung der Schule mit einer Erstplatzierung.
 Ein funktionierenden Roboterkellner
 
 ##Projektziel
-Erstplatzierung 
+Erstplatzierung
 
 ##Betroffene
 Das Team, die Naos und die Schule als Ganzes
-s
