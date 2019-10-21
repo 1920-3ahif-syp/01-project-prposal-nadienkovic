@@ -38,7 +38,7 @@ März
 | benötigte Ressourcen     | Menge | Betrag |
 |:-------------------------|:-----:| ------:|
 | Personal                 |  2    |     €0 |
-| NAO v6 (schon vorhanden) | 2     | €20000 |
+| NAO v6 (schon vorhanden) | 2     | €12 000 |
 
 
 ## Projektrisiken
