@@ -1,4 +1,4 @@
-# PROJEKTAUFTRAG 
+# PROJEKTAUFTRAG
 von Nadia Bajim und Mathias Bal
 
 ## Projektbezeichnung
@@ -24,6 +24,12 @@ Ein noch besseres Ansehen der Schule und unseren Bekanntheitsgrad steigen.
 ## Projektbeschreibung
 
 Der humanoide Roboter soll die Aufgaben eines Kellners in einem Restaurant übernehmen.Dies besteht aus dem Begrüßen von Gästen sowie der Aufnahme von Bestellungen, des Servierens und der Abrechnung.
+
+## Meilensteinliste
+
+* Funktionierender Pythoncode
+* Kommunikation zwischen Code und NAO
+* Code wird korrekt vom NAO ausgeführt 
 
 ## Projektstart
 
